@@ -1,9 +1,10 @@
 title: Jazmin Hernandez # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo:  # your photo (or logo) here
+description: "/images/JH photologo.png?raw=true"> # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst and Mathematician <br><br>
   Marathon runner, dog lover, mom of 2, and world traveler <br><br>
   <a href="https://www.linkedin.com/in/jazmin-hernandez-ms/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+"/images/logo.png?raw=true"
