@@ -1,6 +1,6 @@
 title: Jazmin Hernandez # your name (or website title) here
-logo: images/IMG_0193.jpg # your photo (or logo) here
-description: "/images/IMG_0193.jpg?raw=true" # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/IMG_0193.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst and Mathematician <br><br>
   Marathon runner, dog lover, mom of 2, and world traveler <br><br>
   <a href="https://www.linkedin.com/in/jazmin-hernandez-ms/">View My LinkedIn Profile</a> 
