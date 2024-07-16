@@ -24,7 +24,11 @@ What are the top math schools in the state?
 ---
 #### [World Bank Data Using SQL](https://www.linkedin.com/feed/update/urn:li:activity:7217646616185380864/)
 [<img src="images/travel the world (1).png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-Analyzed 1.3+ rows of bank date data to evaluate trends in project loans in various countries.  
+Analyzed 1.3+ rows of bank date data to evaluate trends in project loans in various countries. Some of the main questions answered...
+What is the World Bank IDA program? 
+When was the first project funded and who recieved those funds? 
+What project types are often funded by the IDA? 
+Which countries received the most funding? 
 
 
 
