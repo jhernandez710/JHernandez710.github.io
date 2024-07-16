@@ -22,6 +22,9 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
+#### [World Bank Data Using SQL](https://www.linkedin.com/feed/update/urn:li:activity:7217646616185380864/)
+[<img src="images/service.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+Analyzed 1.3+ rows of bank date data to evaluate trends in project loans in various countries.  
 
 
 
