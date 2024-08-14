@@ -5,7 +5,7 @@
 ### Learn About My Projects
 ---
 #### [Extracting Insights using SQL](https://www.linkedin.com/pulse/extrating-insights-hospital-data-jazmin-hernandez-ms--1l1oc/?trackingId=J%2FrtxIGfQQGmLtTArjiJZA%3D%3D)
-[<img src="images/Improving Health Care.jpg?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Improving Health Care.jpg?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/extrating-insights-hospital-data-jazmin-hernandez-ms--1l1oc/?trackingId=J%2FrtxIGfQQGmLtTArjiJZA%3D%3D))
 Extracted data insights by joining two tables using SQL. 
 - JOINS
 - CTE's and Subqueries
@@ -13,7 +13,7 @@ Extracted data insights by joining two tables using SQL.
 
 - ---
 #### [Door Dash Analytics Using Excel](https://www.linkedin.com/pulse/analyzing-trends-doordash-sales-jazmin-hernandez-ms--ljx0c/?trackingId=WvKMDucwS2GCu7mTcAyUPg%3D%3D)
-[<img src="images/service.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/service.png?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/analyzing-trends-doordash-sales-jazmin-hernandez-ms--ljx0c/?trackingId=WvKMDucwS2GCu7mTcAyUPg%3D%3D))
 Analyzed 2,000+ rows of customer data in Excel using some of the following to evaluate campaign success levels. 
 - VLOOKUPS
 - XLOOKUPS
@@ -30,7 +30,7 @@ What are the top math schools in the state?
 
 ---
 #### [World Bank Data Using SQL](https://www.linkedin.com/feed/update/urn:li:activity:7217646616185380864/)
-[<img src="images/travel the world (1).png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/travel the world (1).png?raw=true"/>](https://www.linkedin.com/feed/update/urn:li:activity:7217646616185380864/)
 Analyzed 1.3+ rows of bank date data to evaluate trends in project loans in various countries. Some of the main questions answered...
 What is the World Bank IDA program? 
 When was the first project funded and who recieved those funds? 
