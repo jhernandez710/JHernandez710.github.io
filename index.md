@@ -5,7 +5,7 @@
 ### Learn About My Projects
 ---
 #### [Extracting Insights using SQL](https://www.linkedin.com/pulse/extrating-insights-hospital-data-jazmin-hernandez-ms--1l1oc/?trackingId=J%2FrtxIGfQQGmLtTArjiJZA%3D%3D)
-[<img src="images/Improving Health Care.jpg?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/extrating-insights-hospital-data-jazmin-hernandez-ms--1l1oc/?trackingId=J%2FrtxIGfQQGmLtTArjiJZA%3D%3D))
+[<img src="images/Improving Health Care.jpg?raw=true"/>]([https://www.linkedin.com/pulse/extrating-insights-hospital-data-jazmin-hernandez-ms--1l1oc/?trackingId=J%2FrtxIGfQQGmLtTArjiJZA%3D%3D])
 Extracted data insights by joining two tables using SQL. 
 - JOINS
 - CTE's and Subqueries
@@ -13,7 +13,7 @@ Extracted data insights by joining two tables using SQL.
 
 - ---
 #### [Door Dash Analytics Using Excel](https://www.linkedin.com/pulse/analyzing-trends-doordash-sales-jazmin-hernandez-ms--ljx0c/?trackingId=WvKMDucwS2GCu7mTcAyUPg%3D%3D)
-[<img src="images/service.png?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/analyzing-trends-doordash-sales-jazmin-hernandez-ms--ljx0c/?trackingId=WvKMDucwS2GCu7mTcAyUPg%3D%3D))
+[<img src="images/service.png?raw=true"/>]([https://www.linkedin.com/pulse/analyzing-trends-doordash-sales-jazmin-hernandez-ms--ljx0c/?trackingId=WvKMDucwS2GCu7mTcAyUPg%3D%3D])
 Analyzed 2,000+ rows of customer data in Excel using some of the following to evaluate campaign success levels. 
 - VLOOKUPS
 - XLOOKUPS
